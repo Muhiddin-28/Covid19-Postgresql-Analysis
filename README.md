@@ -4,7 +4,6 @@
 
 PostgreSQL-based analysis of **COVID-19 deaths** and **vaccination trends**.  
 
-# 🦠 COVID-19 Data Analysis (PostgreSQL)
 ## 📌 Project Overview
 
 This project provides a PostgreSQL-based analytical workflow for exploring the relationship between COVID-19 deaths and vaccination progress.
