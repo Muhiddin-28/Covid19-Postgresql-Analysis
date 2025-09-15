@@ -1,3 +1,9 @@
+# 🦠 COVID-19 PostgreSQL Analysis  
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-%234169E1?logo=postgresql&logoColor=white)  
+
+PostgreSQL-based analysis of **COVID-19 deaths** and **vaccination trends**.  
+
 # 🦠 COVID-19 Data Analysis (PostgreSQL)
 ## 📌 Project Overview
 
