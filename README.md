@@ -126,11 +126,19 @@ WHERE total_cases > 1000;
 
 ## 🚀 How to Use
 
-- Load COVID-19 deaths and vaccination datasets into PostgreSQL.
+1. **Load the Data**  
+   - Download and extract `Data/Data.zip`.  
+   - Import `covid_deaths.csv` and `covid_vaccinations.csv` into PostgreSQL.  
 
-- Run the provided SQL script (covid_analysis.sql).
+2. **Run the SQL Script**  
+   - Execute the `covid_analysis.sql` file in PostgreSQL.  
+   - This will create the necessary views and queries for analysis.  
 
-- Use queries to explore: (Trends over time), (Country comparisons), (Correlation patterns).
+3. **Explore the Insights**  
+   Use the provided queries to analyze:  
+   - 📈 **Trends over time** – COVID-19 cases, deaths, and vaccinations over time  
+   - 🌍 **Country comparisons** – compare countries and regions  
+   - 🔗 **Correlation patterns** – relationships between vaccination rates and death rates  
 
 ## ✅ Conclusion
 
